@@ -1,5 +1,5 @@
 {
-  "name": "--experimental-turbo",
+  "name": "--typescript",
   "version": "0.1.0",
   "private": true,
   "scripts": {
